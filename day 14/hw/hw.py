@@ -18,5 +18,5 @@ for i in range(25, 151, 4):
 for i in range(100, 1001, 10):
     print(i)
 
-    for i in range(1, 101):
-        print(i, "პითონი მაგარია")
+for i in range(1, 101):
+    print(i, "პითონი მაგარია")
